@@ -6,11 +6,11 @@ Dataset.py:- to create dataset for 2 users
 CNN.py :- for building the model 
 test.py:- for testing the model
 
-Initially camera is initialised and images for dataset is caputured and stored in specified folder in jpg format.
+Initially camera is initialised and images for dataset is captured and stored in specified folder in jpg format.
 
 Model is built for the above stored dataset and stored in model.h5 file.
 
 Model is tested by initialsing the camera and capturing the test image.
 
-Results is diaplyed in console and also on pop up window triggered by camera.
+Results is displayed on the  console and also on  the pop up window triggered by camera.
 
